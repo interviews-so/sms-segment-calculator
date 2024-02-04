@@ -1,0 +1,56 @@
+# Dependency directories
+/node_modules
+
+# Output directory for compiled TypeScript
+/dist
+
+# Environment variables file (if applicable)
+.env
+
+# Visual Studio Code settings
+.vscode
+
+# Jest cache directory
+/.jest
+
+# Editor-specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Logs and debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS Finder files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# TypeScript configuration
+tsconfig.json
+
+# Ignore user-specific npm configuration
+.npmrc
+.npmignore
+
+# User-specific files
+*.sublime-workspace
+*.sublime-project
+*.komodoproject
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/languages.xml
+.idea/dictionaries
+.idea_modules/
+.idea_caches/
+.idea/shelf/
+.idea/libraries
+
+# Local development files
+/.eslintcache
